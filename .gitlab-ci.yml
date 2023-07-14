@@ -7,6 +7,7 @@ stages:
   - deploy-prd
 
 
+
 variables:
   MC_Service_Name: masa-mc-service
   MC_Web_Name: masa-mc-ui-admin
